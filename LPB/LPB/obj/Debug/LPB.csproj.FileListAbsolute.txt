@@ -1,0 +1,9 @@
+C:\Users\22060\Desktop\C#\LPB\LPB\bin\Debug\LPB.exe.config
+C:\Users\22060\Desktop\C#\LPB\LPB\bin\Debug\LPB.exe
+C:\Users\22060\Desktop\C#\LPB\LPB\bin\Debug\LPB.pdb
+C:\Users\22060\Desktop\C#\LPB\LPB\obj\Debug\LPB.Form1.resources
+C:\Users\22060\Desktop\C#\LPB\LPB\obj\Debug\LPB.Properties.Resources.resources
+C:\Users\22060\Desktop\C#\LPB\LPB\obj\Debug\LPB.csproj.GenerateResource.cache
+C:\Users\22060\Desktop\C#\LPB\LPB\obj\Debug\LPB.csproj.CoreCompileInputs.cache
+C:\Users\22060\Desktop\C#\LPB\LPB\obj\Debug\LPB.exe
+C:\Users\22060\Desktop\C#\LPB\LPB\obj\Debug\LPB.pdb
